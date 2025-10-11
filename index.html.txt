@@ -1,0 +1,38 @@
+<!DOCTYPE html><html lang="hi">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>GaoSeva QR Hub</title>
+  <!-- Tailwind CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    .card { background: white; border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.06); }
+    .rounded-button { border-radius: 9999px; padding: 8px 0; text-align: center; font-weight: 500; box-shadow: 0 2px 6px rgba(0,0,0,0.1); transition: 0.2s; }
+    .rounded-button:hover { box-shadow: 0 4px 12px rgba(0,0,0,0.15); }
+  </style>
+</head>
+<body class="bg-gray-100 min-h-screen flex flex-col items-center p-4">  <!-- Top heading -->
+  <header class="mb-6 text-center">
+    <h1 class="text-5xl font-bold">GaoSeva</h1>
+    <h2 class="text-lg mt-2">(User Interfaces)</h2>
+  </header>  <!-- Buttons section -->
+  <main class="w-full max-w-md flex flex-col gap-2 mb-6">
+    <a href="https://qrco.de/bgNCrD" class="rounded-button bg-blue-500 text-white">(UI) - 1</a>
+    <a href="https://qrco.de/bgNCyb" class="rounded-button bg-blue-500 text-white">(UI) - 2</a>
+    <a href="https://qrco.de/bgND2m" class="rounded-button bg-blue-500 text-white">(UI) - 3</a>
+    <a href="https://qrco.de/bgND7R" class="rounded-button bg-blue-500 text-white">(UI) - 4</a>
+    <a href="https://qrco.de/bgNDC3" class="rounded-button bg-blue-500 text-white">(UI) - 5</a>
+    <a href="https://qrco.de/bgNDJZ" class="rounded-button bg-blue-500 text-white">(UI) - 6</a>
+    <a href="https://qrco.de/bgNDPl" class="rounded-button bg-blue-500 text-white">(UI) - 7</a>
+    <a href="https://qrco.de/bgNDVk" class="rounded-button bg-blue-500 text-white">(UI) - 8</a>
+    <a href="https://qrco.de/bgNDa0" class="rounded-button bg-blue-500 text-white">(UI) - 9</a>
+    <a href="https://qrco.de/bgNDgx" class="rounded-button bg-blue-500 text-white">(UI) - 10</a>
+    <a href="https://qrco.de/bgNDjk" class="rounded-button bg-blue-500 text-white">(UI) - 11</a>
+    <a href="https://qrco.de/bgNEWt" class="rounded-button bg-blue-500 text-white">(UI) - 12</a>
+    <a href="https://qrco.de/bgNEaS" class="rounded-button bg-blue-500 text-white">(UI) - 13</a>
+    <a href="https://qrco.de/bgNF2a" class="rounded-button bg-blue-500 text-white">(UI) - 14</a>
+    <a href="https://qrco.de/bgNF3b" class="rounded-button bg-blue-500 text-white">(UI) - 15</a>
+    <a href="https://qrco.de/bgNF4c" class="rounded-button bg-blue-500 text-white">(UI) - 16</a>
+  </main>  <!-- Footer -->
+  <footer class="text-center text-gray-500 mt-auto">&mdash; Developed by ~Dhananjay Singhania</footer></body>
+</html>
